@@ -10,6 +10,9 @@
   </a>
 </p>
 
+# Currently runs only using https://t3mpl.n4no.com/editor/#manifest=../templates/mobile-app-landing-page/template.yaml . To publish upload the zip to netlify.
+## t3data file is a zip file. upload it to t3mpl.n4no.com and edit the site there 🙌
+
 📱 Free to use static generated landing page template for your mobile app
 
 ## 💡 Features
